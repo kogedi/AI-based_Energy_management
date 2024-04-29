@@ -1,0 +1,9 @@
+Flask==3.0.0
+gunicorn==22.0.0
+Werkzeug==3.0.1
+google-cloud-bigquery
+torch
+numpy
+matplotlib
+scipy
+datetime
